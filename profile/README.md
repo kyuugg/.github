@@ -48,6 +48,6 @@ build things that are understandable today and still valuable tomorrow.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-👤 **Maintained by Arya**  
+👤 created by **ayukyuu**  
 A personal space for growth, experimentation, and intentional development.
 
