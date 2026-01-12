@@ -1,53 +1,53 @@
 # kyuu.gg 🐾
 
-> **Build slowly. Build clean. Build things that last.**
+> **build slowly. build clean. build things that last.**
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 **kyuu.gg** is a long-term personal development brand built around  
 intentional software, structured thinking, and continuous improvement.
 
-This organization exists as a space to explore ideas, build systems,  
+this organization exists as a space to explore ideas, build systems,  
 and turn curiosity into real, evolving projects — without rushing,  
 without shortcuts, and without external pressure.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-✨ **Core values**
-- 🧠 Learning through real-world building  
-- 🧩 Structure, clarity, and readable systems  
-- 🕰️ Long-term growth over short-term results  
-- 🎯 Purpose-driven decisions instead of noise  
+✨ **core values**
+- 🧠 learning through real-world building  
+- 🧩 structure, clarity, and readable systems  
+- 🕰️ long-term growth over short-term results  
+- 🎯 purpose-driven decisions instead of noise  
 
-Everything here is allowed to change.  
-Progress matters more than perfection.
+everything here is allowed to change.  
+progress matters more than perfection.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🌱 **How this space is used**
-This organization functions as:
+🌱 **how this space is used**
+this organization functions as:
 - a sandbox for experimentation and exploration  
 - a place to design and refine foundations  
 - a log of personal progress and iteration  
 - a growing collection of ideas in different stages  
 
-Some projects move fast.  
-Others evolve slowly.  
-Both are intentional.
+some projects move fast.  
+others evolve slowly.  
+both are intentional.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🚀 **Direction**
+🚀 **direction**
 kyuu.gg is built with the future in mind.
 
-Not every project has a clear destination from the start —  
+not every project has a clear destination from the start —  
 but every step is taken with care, curiosity, and discipline.
 
-The goal is simple:  
+the goal is simple:  
 build things that are understandable today and still valuable tomorrow.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-👤 created by **ayukyuu**  
-A personal space for growth, experimentation, and intentional development.
+👤 **maintained by ayukyuu**  
+a personal space for growth, experimentation, and intentional development.
 
