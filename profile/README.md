@@ -1,27 +1,53 @@
 # kyuu.gg 🐾
 
-> **code with passion, code with intention.**
+> **Build slowly. Build clean. Build things that last.**
 
-**kyuu.gg** is a long-term development brand focused on  
-**clean systems · thoughtful code · continuous learning**
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-━━━━━━━━━━━━━━━━━━━━
+**kyuu.gg** is a long-term personal development brand built around  
+intentional software, structured thinking, and continuous improvement.
 
-✨ **What this space is about**
-- 🧠 learning by building, not rushing  
-- 🧩 structure over hacks  
-- 🕰️ long-term thinking  
-- 🎯 clarity, simplicity, purpose  
+This organization exists as a space to explore ideas, build systems,  
+and turn curiosity into real, evolving projects — without rushing,  
+without shortcuts, and without external pressure.
 
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🛠️ **What you’ll find here**
-- experimental projects & playgrounds  
-- core systems & foundations  
-- tools, ideas & iterations  
-- archived work that shows progress  
+✨ **Core values**
+- 🧠 Learning through real-world building  
+- 🧩 Structure, clarity, and readable systems  
+- 🕰️ Long-term growth over short-term results  
+- 🎯 Purpose-driven decisions instead of noise  
 
-━━━━━━━━━━━━━━━━━━━━
+Everything here is allowed to change.  
+Progress matters more than perfection.
 
-👤 created by **ayukyuu**  
-A personal space to grow, experiment, and build with discipline.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌱 **How this space is used**
+This organization functions as:
+- a sandbox for experimentation and exploration  
+- a place to design and refine foundations  
+- a log of personal progress and iteration  
+- a growing collection of ideas in different stages  
+
+Some projects move fast.  
+Others evolve slowly.  
+Both are intentional.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 **Direction**
+kyuu.gg is built with the future in mind.
+
+Not every project has a clear destination from the start —  
+but every step is taken with care, curiosity, and discipline.
+
+The goal is simple:  
+build things that are understandable today and still valuable tomorrow.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+👤 **Maintained by Arya**  
+A personal space for growth, experimentation, and intentional development.
+
