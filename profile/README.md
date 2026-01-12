@@ -1,12 +1,27 @@
-## Hi there 👋
+# kyuu.gg 🐾
 
-<!--
+> **code with passion, code with intention.**
 
-**Here are some ideas to get you started:**
+**kyuu.gg** is a long-term development brand focused on  
+**clean systems · thoughtful code · continuous learning**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+━━━━━━━━━━━━━━━━━━━━
+
+✨ **What this space is about**
+- 🧠 learning by building, not rushing  
+- 🧩 structure over hacks  
+- 🕰️ long-term thinking  
+- 🎯 clarity, simplicity, purpose  
+
+━━━━━━━━━━━━━━━━━━━━
+
+🛠️ **What you’ll find here**
+- experimental projects & playgrounds  
+- core systems & foundations  
+- tools, ideas & iterations  
+- archived work that shows progress  
+
+━━━━━━━━━━━━━━━━━━━━
+
+👤 created by **ayukyuu**  
+A personal space to grow, experiment, and build with discipline.
